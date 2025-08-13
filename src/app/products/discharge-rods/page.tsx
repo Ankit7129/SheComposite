@@ -19,10 +19,10 @@ export default function FRPDischargeRodsPage() {
   ];
 
   const media: { type: "image" | "video"; src: string; alt?: string }[] = [
-    { type: "image", src: "/images/frp-discharge-rod.jpg", alt: "FRP Discharge Rod Main" },
-    { type: "image", src: "/images/frp-discharge-rod-1.jpg", alt: "FRP Discharge Rod Close-up" },
-    { type: "video", src: "/videos/frp-discharge-rod-demo.mp4", alt: "FRP Discharge Rod Video" },
-    { type: "image", src: "/images/frp-discharge-rod-2.jpg", alt: "FRP Discharge Rod in Use" }
+    { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755106480/frp/ymnx1dc3rqnemsisoigw.png", alt: "FRP Discharge Rod Main" },
+    { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755109602/frp/ccqxhdiqnud2lvzicxmm.png", alt: "FRP Discharge Rod Close-up" },
+    { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755109751/frp/wjskxtifgxgfibixpnvw.png", alt: "FRP Discharge Rod Video" },
+    { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755106620/frp/vftzuhttulruy7rofoxt.webp", alt: "FRP Discharge Rod in Use" }
   ];
 
   const specifications = [
@@ -51,18 +51,18 @@ export default function FRPDischargeRodsPage() {
     {
       name: "Standard Discharge Rods",
       description: "For general high-voltage discharge operations",
-      image: "/images/frp-standard-discharge-rod.jpg"
+      image: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755109602/frp/ccqxhdiqnud2lvzicxmm.png"
     },
     {
       name: "Telescopic Discharge Rods",
       description: "Adjustable length for flexible operation",
-      image: "/images/frp-telescopic-discharge-rod.jpg"
+      image: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755109751/frp/wjskxtifgxgfibixpnvw.png"
     },
-    {
-      name: "Compact Discharge Rods",
-      description: "Short length for confined spaces",
-      image: "/images/frp-compact-discharge-rod.jpg"
-    }
+    // {
+    //   name: "Compact Discharge Rods",
+    //   description: "Short length for confined spaces",
+    //   image: "/images/frp-compact-discharge-rod.jpg"
+    // }
   ];
 
   return (

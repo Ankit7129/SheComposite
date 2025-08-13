@@ -19,10 +19,10 @@ export default function FRPRebarPage() {
   ];
 
   const media: { type: "image" | "video"; src: string; alt?: string }[] = [
-    { type: "image", src: "/images/frp-rebar.jpg", alt: "FRP Rebar Main" },
-    { type: "image", src: "/images/frp-rebar-1.jpg", alt: "FRP Rebar Close-up" },
-    { type: "video", src: "/videos/frp-rebar-demo.mp4", alt: "FRP Rebar Installation Video" },
-    { type: "image", src: "/images/frp-rebar-2.jpg", alt: "FRP Rebar in Concrete" }
+    { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755105612/frp/cqwszqnffz7bu1oo3dwm.webp", alt: "FRP Rebar Main" },
+    { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755103224/frp/scbe0isrwfv79l9pcrff.png", alt: "FRP Rebar Close-up" },
+    { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755105447/frp/h0dxfinwqxxzvdjr77sr.webp", alt: "FRP Rebar Installation Video" },
+    { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755103400/frp/impebfvmh4fp9eryhcpz.png", alt: "FRP Rebar in Concrete" }
   ];
 
   const specifications = [
@@ -51,17 +51,17 @@ export default function FRPRebarPage() {
     {
       name: "Straight Rebar",
       description: "Standard straight FRP rebar for general concrete reinforcement",
-      image: "/images/frp-rebar-straight.jpg"
+      image: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755105612/frp/cqwszqnffz7bu1oo3dwm.webp"
     },
     {
       name: "Bent Rebar",
       description: "Pre-bent FRP rebar for structural corners and joints",
-      image: "/images/frp-rebar-bent.jpg"
+      image: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755109009/frp/vbesm6ww3xk0lhnjca2z.webp"
     },
     {
       name: "Spiral Rebar",
       description: "Helical FRP reinforcement for columns and round structures",
-      image: "/images/frp-rebar-spiral.jpg"
+      image: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755106037/frp/mb4elhki3adceehc3lzd.webp"
     }
   ];
 

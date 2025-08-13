@@ -19,9 +19,9 @@ export default function FRPToiletsPage() {
   ];
 
   const media: { type: "image" | "video"; src: string; alt?: string }[] = [
-    { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755093006/factory/bmwneb3vijjcn4x57c0w.webp", alt: "FRP Toilet Main" },
-    { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755093117/factory/ehknp5vpjjlga4n6exvd.png", alt: "FRP Toilet Interior" },
-    { type: "video", src: "/videos/frp-toilet-demo.mp4", alt: "FRP Toilet Video" },
+    { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755093117/factory/ehknp5vpjjlga4n6exvd.png", alt: "FRP Toilet Main" },
+    { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755093006/factory/bmwneb3vijjcn4x57c0w.webp", alt: "FRP Toilet Interior" },
+    { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755104703/frp/wem0tnvtdb5ybwwlr4sq.jpg", alt: "FRP Toilet Video" },
     { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755093171/factory/cblluz93owituycgjtnu.webp", alt: "FRP Toilet Exterior" }
   ];
 
@@ -56,7 +56,7 @@ export default function FRPToiletsPage() {
     {
       name: "Twin Unit Toilets",
       description: "Two connected units for higher usage capacity",
-      image: "/images/frp-twin-toilet.jpg"
+      image: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755104703/frp/wem0tnvtdb5ybwwlr4sq.jpg"
     },
     {
       name: "Luxury Portable Toilets",

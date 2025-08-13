@@ -21,7 +21,7 @@ export default function FRPSheetsPanelsPage() {
   const media: { type: "image" | "video"; src: string; alt?: string }[] = [
     { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755091675/factory/f6joxvaguk5u6vamqvbg.png", alt: "FRP Sheets & Panels Main" },
     { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755091592/factory/tdem12omrk2mlyktr5uv.png", alt: "FRP Sheet Close-up" },
-    { type: "video", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755092635/factory/opsnj3rrnbnze7rjfxwv.png", alt: "FRP Sheets & Panels Video" },
+    { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755092635/factory/opsnj3rrnbnze7rjfxwv.png", alt: "FRP Sheets & Panels Video" },
     { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755091508/factory/shwrov0pfivbbqog6wld.png", alt: "FRP Sheet Application" }
   ];
 

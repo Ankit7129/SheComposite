@@ -19,10 +19,10 @@ export default function FRPGratingsPage() {
   ];
 
   const media: { type: "image" | "video"; src: string; alt?: string }[] = [
-    { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755091943/factory/enbxs2nl1bil1sw7fctx.png", alt: "FRP Grating Main" },
-    { type: "image", src: "/images/frp-grating-1.jpg", alt: "FRP Grating Close-up" },
-    { type: "video", src: "/videos/frp-grating-demo.mp4", alt: "FRP Grating Video" },
-    { type: "image", src: "/images/frp-grating-2.jpg", alt: "FRP Grating in Industrial Use" }
+    { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755107059/frp/el4jr972pjsyalwdq4uh.jpg", alt: "FRP Grating Main" },
+    { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755106829/frp/neuny5n1klo5ubhastze.webp", alt: "FRP Grating Close-up" },
+    { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755091943/factory/enbxs2nl1bil1sw7fctx.png", alt: "FRP Grating Video" },
+    { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755107182/frp/jaowqhhf5sbsfwlbbh3n.jpg", alt: "FRP Grating in Industrial Use" }
   ];
 
   const specifications = [
@@ -51,17 +51,17 @@ export default function FRPGratingsPage() {
     {
       name: "Molded FRP Gratings",
       description: "Corrosion-resistant, durable molded gratings for various industries",
-      image: "/images/frp-molded-grating.jpg"
+      image: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755107059/frp/el4jr972pjsyalwdq4uh.jpg"
     },
     {
       name: "Pultruded FRP Gratings",
       description: "High-strength pultruded gratings for heavy-duty applications",
-      image: "/images/frp-pultruded-grating.jpg"
+      image: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755107469/frp/j6jdfd30djy3efxhiyiu.jpg"
     },
     {
       name: "Custom FRP Gratings",
       description: "Gratings designed and manufactured to client specifications",
-      image: "/images/frp-custom-grating.jpg"
+      image: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755107182/frp/jaowqhhf5sbsfwlbbh3n.jpg"
     }
   ];
 

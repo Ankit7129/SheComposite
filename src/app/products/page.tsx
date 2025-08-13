@@ -12,13 +12,13 @@ export default function ProductsPage() {
     {
       name: "FRP Cable Trays",
       description: "Lightweight, corrosion-resistant cable management systems for industrial and infrastructure projects.",
-      image: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755090919/product/cable-tray/xnhugywh0nrw2tp8asss.jpg",
+      image: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755108060/frp/mum97jvntkfz12beoito.webp",
       link: "/products/cable-trays",
     },
     {
       name: "FRP Rebar",
       description: "High-strength, non-corrosive reinforcement bars for concrete structures.",
-      image: "/images/frp-rebar.jpg",
+      image: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755105612/frp/cqwszqnffz7bu1oo3dwm.webp",
       link: "/products/rebar",
     },
     {
@@ -36,14 +36,14 @@ export default function ProductsPage() {
     {
       name: "FRP Gates & Fencing",
       description: "Secure, durable, and corrosion-resistant perimeter solutions.",
-      image: "/images/frp-fencing.jpg",
+      image: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755106207/frp/i7xsezumbsd8k1zfqv5s.jpg",
       link: "/products/gates-fencing",
     },
     {
       name: "FRP Sheets & Panels",
       description: "Versatile cladding, partitioning, and surface protection panels.",
-      image: "/images/frp-sheet.jpg",
-      link: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755092635/factory/opsnj3rrnbnze7rjfxwv.png",
+      image: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755091675/factory/f6joxvaguk5u6vamqvbg.png",
+      link: "products/sheets-panels",
     },
     {
       name: "FRP Ladders",
@@ -54,13 +54,13 @@ export default function ProductsPage() {
     {
       name: "FRP Discharge Rods",
       description: "High-voltage safety equipment designed for electrical discharge applications.",
-      image: "/images/frp-discharge-rod.jpg",
+      image: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755106480/frp/ymnx1dc3rqnemsisoigw.png",
       link: "/products/discharge-rods",
     },
     {
       name: "FRP Gratings",
       description: "Slip-resistant, corrosion-free flooring and walkway solutions.",
-      image: "/images/frp-grating.jpg",
+      image: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755106829/frp/neuny5n1klo5ubhastze.webp",
       link: "/products/gratings",
     },
   ];

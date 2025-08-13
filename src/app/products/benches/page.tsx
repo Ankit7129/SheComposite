@@ -20,9 +20,9 @@ export default function FRPBenchesPage() {
 
   const media: { type: "image" | "video"; src: string; alt?: string }[] = [
     { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755076548/production/completed/zro6ixqe91unqsietma1.jpg", alt: "FRP Bench Main" },
-    { type: "image", src: "/images/frp-bench-1.jpg", alt: "FRP Bench Design 1" },
-    { type: "video", src: "/videos/frp-bench-demo.mp4", alt: "FRP Bench Video" },
-    { type: "image", src: "/images/frp-bench-2.jpg", alt: "FRP Bench Design 2" }
+    { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755109074/frp/chtgjf7rhaaqs0gizlqp.webp", alt: "FRP Bench Design 1" },
+    { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755109219/frp/pbvbykgieu0qoixsx5oz.png", alt: "FRP Bench Video" },
+    { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755109323/frp/sehuy27fywhxceuy1kdj.webp", alt: "FRP Bench Design 2" }
   ];
 
   const specifications = [
@@ -56,12 +56,12 @@ export default function FRPBenchesPage() {
     {
       name: "Backless Benches",
       description: "Space-saving design for public and commercial areas",
-      image: "/images/frp-backless-bench.jpg"
+      image: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755109074/frp/chtgjf7rhaaqs0gizlqp.webp"
     },
     {
       name: "Designer Benches",
       description: "Custom shapes and colors to enhance aesthetics",
-      image: "/images/frp-designer-bench.jpg"
+      image: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755109219/frp/pbvbykgieu0qoixsx5oz.png"
     }
   ];
 

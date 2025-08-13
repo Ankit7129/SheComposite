@@ -20,9 +20,9 @@ export default function GatesFencingPage() {
     "Environmentally friendly and recyclable"
   ];
    const media: { type: "image" | "video"; src: string; alt?: string }[] = [
-    { type: "image", src: "/images/frp-gate-fencing-large.jpg", alt: "FRP Gates Main" },
-    { type: "image", src: "/images/frp-gate-fencing-1.jpg", alt: "FRP Gate Design 1" },
-    { type: "video", src: "/videos/frp-gate-demo.mp4", alt: "FRP Gate Video" },
+    { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755106207/frp/i7xsezumbsd8k1zfqv5s.jpg", alt: "FRP Gates Main" },
+    { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755105110/frp/xpgns2tce8vvdgxiougs.png", alt: "FRP Gate Design 1" },
+    { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755105227/frp/q1thwaihaods4kakdwal.png", alt: "FRP Fencing" },
     { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755089917/product/fancing/jh4gvifqfbo2uet37b3b.png", alt: "FRP Gate Design 2" }
   ];
   
@@ -57,12 +57,12 @@ export default function GatesFencingPage() {
     {
       name: "Sliding Gates",
       description: "Space-saving solution for wider openings",
-      image: "/images/frp-sliding-gate.jpg"
+      image: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755109402/frp/aar2ekk8hc0znlgmlqim.jpg"
     },
     {
       name: "Security Gates",
       description: "Reinforced designs for high-security areas",
-      image: "/images/frp-security-gate.jpg"
+      image: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755109499/frp/sloqh0xwqfznz6reovd1.webp"
     }
   ];
 

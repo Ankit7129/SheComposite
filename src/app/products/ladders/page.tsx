@@ -19,9 +19,9 @@ export default function FRPLaddersPage() {
   ];
 
   const media: { type: "image" | "video"; src: string; alt?: string }[] = [
-    { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755090396/product/ladders/bksfwlq4w7hozcogtjd5.jpg", alt: "FRP Ladder Main" },
-    { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755090342/product/ladders/ad7xpu0wrnngowda0wfp.jpg", alt: "FRP Ladder Close-up" },
-    { type: "video", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755090711/product/ladders/t5o2zm568qxwe48n8jpj.png", alt: "FRP Ladder Video" },
+    { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755090342/product/ladders/ad7xpu0wrnngowda0wfp.jpg", alt: "FRP Ladder Main" },
+    { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755090396/product/ladders/bksfwlq4w7hozcogtjd5.jpg", alt: "FRP Ladder Close-up" },
+    { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755090711/product/ladders/t5o2zm568qxwe48n8jpj.png", alt: "FRP Ladder Video" },
     { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755090479/product/ladders/dzqbok43wdwt9exodn8x.webp", alt: "FRP Ladder Application" }
   ];
 
@@ -51,17 +51,17 @@ export default function FRPLaddersPage() {
     {
       name: "Step Ladders",
       description: "Portable ladders with self-supporting frames",
-      image: "/images/frp-step-ladder.jpg"
+      image: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755090342/product/ladders/ad7xpu0wrnngowda0wfp.jpg"
     },
     {
       name: "Extension Ladders",
       description: "Adjustable height ladders for extended reach",
-      image: "/images/frp-extension-ladder.jpg"
+      image: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755090396/product/ladders/bksfwlq4w7hozcogtjd5.jpg"
     },
     {
       name: "Platform Ladders",
       description: "Stable ladders with a platform for long-duration work",
-      image: "/images/frp-platform-ladder.jpg"
+      image: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755108840/frp/bp6qjzvkkwmxtm0w7smd.jpg"
     }
   ];
 

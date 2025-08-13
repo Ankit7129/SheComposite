@@ -23,8 +23,8 @@ export default function ManholeCoversPage() {
   const media: { type: "image" | "video"; src: string; alt?: string }[] = [
     { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755092480/factory/mnqyookdu3mtxgtoufyv.png", alt: "FRP Manhole Cover Main" },
     { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755090036/product/manhole-covers/bxy7q3comls3oqtxqf8z.jpg", alt: "FRP Manhole Design 1" },
-    { type: "video", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755090220/product/manhole-covers/bz7605h4ffrstyxv5xjf.jpg", alt: "FRP Manhole Video" },
-    { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755088884/product/manhole-covers/dxwvghub2e6qlesmcmej.png", alt: "FRP Manhole Design 2" }
+    { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755090220/product/manhole-covers/bz7605h4ffrstyxv5xjf.jpg", alt: "FRP Manhole Video" },
+    { type: "image", src: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755107951/frp/lqjic7plbp9utgcdouzh.webp", alt: "FRP Manhole Design 2" }
   ];
 
   const specifications = [
@@ -53,17 +53,17 @@ export default function ManholeCoversPage() {
     {
       name: "Round Manhole Covers",
       description: "Standard round design for sewer and drainage access",
-      image: "/images/frp-round-manhole.jpg"
+      image: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755107866/frp/kut2wyrabgwieunqnqak.webp"
     },
     {
       name: "Square Manhole Covers",
       description: "Square profile for telecommunication and utility chambers",
-      image: "/images/frp-square-manhole.jpg"
+      image: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755107643/frp/z8qxjx5snjx5cgdtrvoc.webp"
     },
     {
       name: "Recessed Manhole Covers",
       description: "Designed to blend with pavement or tiles for aesthetic purposes",
-      image: "/images/frp-recessed-manhole.jpg"
+      image: "https://res.cloudinary.com/dwaa3gc2w/image/upload/v1755107951/frp/lqjic7plbp9utgcdouzh.webp"
     }
   ];
 
