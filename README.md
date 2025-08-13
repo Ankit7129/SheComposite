@@ -8,7 +8,7 @@ SheComposites (SREE HANUMAT ENTERPRISES Composites) is a modern website showcasi
 
 ## 🌐 Live Demo
 
-[https://shecomposites.com](https://shecomposites.com) *(replace with actual URL if deployed)*
+[https://shecomposites.com](https://shecomposites.com) 
 
 ---
 
@@ -56,6 +56,6 @@ This project demonstrates a responsive and SEO-optimized website built with **Ne
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/shecomposites.git
+git clone https://github.com/Ankit7129/shecomposites.git
 cd shecomposites
 npm install
