@@ -38,7 +38,7 @@ export default function AboutPage() {
               construction and industrial sectors in India.
             </p>
             <p className="text-gray-700 mb-4">
-              Leveraging our parent company's decades of experience in materials manufacturing, 
+              Leveraging our parent company&apos;s decades of experience in materials manufacturing, 
               we combine traditional expertise with cutting-edge composite technology to deliver 
               products that redefine durability and performance.
             </p>
@@ -88,7 +88,7 @@ export default function AboutPage() {
               {
                 title: "Heritage",
                 icon: "🏛️",
-                description: "Drawing on Shree Hanumant Enterprises' legacy of excellence"
+                description: "Drawing on Shree Hanumant Enterprises&apos;s legacy of excellence"
               },
               {
                 title: "Growth",

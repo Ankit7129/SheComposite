@@ -18,10 +18,11 @@ export default function PrivacyPolicy() {
         <div className="prose prose-lg max-w-none">
           <div className="mb-8">
             <p>
-              She Composites ("we," "our," or "us"), a subsidiary of Shree Hanumant Enterprises, 
-              is committed to protecting your privacy. This Privacy Policy explains how we collect, 
-              use, disclose, and safeguard your information when you visit our website or use our services.
-            </p>
+  She Composites (&quot;we,&quot; &quot;our,&quot; or &quot;us&quot;), a subsidiary of Shree Hanumant Enterprises, 
+  is committed to protecting your privacy. This Privacy Policy explains how we collect, 
+  use, disclose, and safeguard your information when you visit our website or use our services.
+</p>
+
           </div>
 
           <div className="space-y-8">

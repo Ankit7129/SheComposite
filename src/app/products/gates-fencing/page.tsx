@@ -1,5 +1,4 @@
-import Image from "next/image";
-import Link from "next/link";
+
 import ProductDetail from "../components/ProductDetail";
 import Breadcrumbs from "../components/Breadcrumbs";
 import ProductSpecs from "../components/ProductSpecs";

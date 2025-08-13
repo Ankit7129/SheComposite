@@ -18,7 +18,7 @@ export default function TermsOfService() {
         <div className="prose prose-lg max-w-none">
           <div className="mb-8">
             <p>
-              These Terms of Service ("Terms") govern your access to and use of the She Composites website 
+              These Terms of Service (&quot;Terms,&quot;) govern your access to and use of the She Composites website 
               and services. She Composites is a subsidiary of Shree Hanumant Enterprises.
             </p>
             <p className="mt-4 font-medium">
